@@ -9,3 +9,10 @@ You should also only enable the GPU when you need it. If you are not using the G
 ### Data
 
 The data for this project is quite large - in fact, it is so large you cannot upload it onto Github.  If you would like the data for this project, you will want download it from the workspace in the classroom.  Though actually completing the project is likely not possible on your local unless you have a GPU.  You will be training using 102 different types of flowers, where there ~20 images per flower to train on.  Then you will use your trained classifier to see if you can predict the type for new images of the flowers.
+
+
+### Mode 
+
+u can download models from here
+[multi layer model](https://drive.google.com/file/d/1AZKduA98afrjOpYl_mM3l8lN0Ev73Bpc/view?usp=sharing)
+[single layer text](https://drive.google.com/file/d/1D8QxqKpEAruL8l7axnEW0dWXI4tpKEY1/view?usp=sharing)
